@@ -1,8 +1,8 @@
 ## Reconhecimento Facial Eigenfaces
 
-FURB - Pós Graduação em Data Science
-Aprendizado não-supervisionado
-Aluno: Felipe Eduardo Gomes<br/>
+FURB - Pós Graduação em Data Science<br/>
+Aprendizado não-supervisionado<br/>
+Aluno: Felipe Eduardo Gomes<br/><br/>
 Repositório dos fontes do Trabalho Final de Aprendizado Não Supervisionado - FURB
 
 ### 1) Passo-a-passo
